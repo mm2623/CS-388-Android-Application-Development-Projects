@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">wordle</string>
+    <string name="my_hint">Enter 4 letters</string>
+    <string name="button_text">GUESS!</string>
+    <string name="button_reset">RESET</string>
+    <string name="result">Book!</string>
+    <string name="guess1">Guess#1</string>
+    <string name="guess1checked">Guess#1 Check</string>
+    <string name="display">XXXX</string>
+    <string name="guess2">Guess#2</string>
+    <string name="guess2checked">Guess#2 Check</string>
+    <string name="guess3">Guess#3</string>
+    <string name="guess3checked">Guess#3 Check</string>
+    <string name="guess">Book!</string>
+</resources>

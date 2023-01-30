@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TapCounterApp</string>
+    <string name="counter_text">0</string>
+    <string name="button_text">ADD 1</string>
+</resources>
