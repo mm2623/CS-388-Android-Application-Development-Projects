@@ -32,7 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/90267420/215624158-dd47ff88-5dd6-417a-9554-ab6f8541f6af.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/90267420/216458300-e274f59a-3298-43cb-afae-738d9f400c1f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with ...  
 [LICEcap](https://licecap.en.softonic.com/) for Windows
