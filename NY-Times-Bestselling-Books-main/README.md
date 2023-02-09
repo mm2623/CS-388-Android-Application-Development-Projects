@@ -6,4 +6,4 @@ Submitted by: **Muhammad Abdul Mannan**
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/90267420/216485271-a5f97d9a-95a6-481c-a237-95300a9bc0dd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />!
+<img src='https://user-images.githubusercontent.com/90267420/217944654-67bf752d-2659-437e-af04-790693293c09.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />!
