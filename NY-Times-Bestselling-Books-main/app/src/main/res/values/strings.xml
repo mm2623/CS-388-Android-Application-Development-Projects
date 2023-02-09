@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NY Times Best Seller</string>
+    <string name="none">none</string>
+    <string name="textview">TextView</string>
+    <string name="button">Buy on amazon</string>
+    <string name="book_cover_image">Book Cover Image</string>
+</resources>
