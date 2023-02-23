@@ -1,4 +1,4 @@
-# Android Lab 1 - *NY Times Bestselling Book*
+# Android Lab 4 - *ArticleSearch*
 
 Submitted by: **Muhammad Abdul Mannan**
 
@@ -6,4 +6,4 @@ Submitted by: **Muhammad Abdul Mannan**
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/90267420/217944654-67bf752d-2659-437e-af04-790693293c09.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />!
+<img src='https://user-images.githubusercontent.com/90267420/219483098-f1759d40-6ba4-4253-b3b4-cf04ad18fab3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
