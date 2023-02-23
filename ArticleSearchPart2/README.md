@@ -1,4 +1,4 @@
-# Android Lab 4 - *ArticleSearch*
+# Android Lab 5 - *Article Search Part 2*
 
 Submitted by: **Muhammad Abdul Mannan**
 
