@@ -1,3 +1,3 @@
-# Android Lab 6 - *ArticleSearchPart3*
+# Android Lab 6 - *Article Search Part 3*
 
 Submitted by: **Muhammad Abdul Mannan**
