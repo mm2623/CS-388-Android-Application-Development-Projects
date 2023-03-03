@@ -1,4 +1,4 @@
-# Android Lab 4 - *ArticleSearch*
+# Android Lab 5 - *Article Search Part 2*
 
 Submitted by: **Muhammad Abdul Mannan**
 
@@ -6,4 +6,5 @@ Submitted by: **Muhammad Abdul Mannan**
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/90267420/219483098-f1759d40-6ba4-4253-b3b4-cf04ad18fab3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/90267420/221018813-ab3969e1-5b19-4643-835f-ffd94f0c11ff.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
